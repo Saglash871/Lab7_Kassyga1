@@ -37,6 +37,7 @@ namespace Корутины
                 Console.WriteLine("HEllo");
                 Thread.Sleep(1000);
             }
+            Console.WriteLine("Сделанно Кассыга С.О. И-43");
             Console.ReadLine();
         }
     }
