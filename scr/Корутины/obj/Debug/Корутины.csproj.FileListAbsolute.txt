@@ -1,0 +1,8 @@
+D:\Корутины\bin\Debug\Корутины.exe.config
+D:\Корутины\bin\Debug\Корутины.exe
+D:\Корутины\bin\Debug\Корутины.pdb
+D:\Корутины\obj\Debug\Корутины.csproj.AssemblyReference.cache
+D:\Корутины\obj\Debug\Корутины.csproj.CoreCompileInputs.cache
+D:\Корутины\obj\Debug\Корутины.exe
+D:\Корутины\obj\Debug\Корутины.pdb
+D:\Корутины\obj\Debug\Корутины.exe.config
