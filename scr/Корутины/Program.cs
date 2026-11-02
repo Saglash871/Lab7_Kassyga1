@@ -10,6 +10,9 @@ namespace Корутины
     internal class Program
     {
         public int Time;
+      /// <summary>
+      /// Просто пишет привет в консоль
+      /// </summary>
         public int Random_time()
         {
             Random random = new Random();
@@ -17,6 +20,9 @@ namespace Корутины
 
             return Time;
         }
+        /// <summary>
+        /// Пишет привет спустя 1000 мс
+        /// </summary>
         static void Main(string[] args)
         {
             for (int i = 0; i < 3; i++)
